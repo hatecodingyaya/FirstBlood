@@ -1,1 +1,2 @@
-# FirstBlood
+# FirstBlood  
+github好难用
